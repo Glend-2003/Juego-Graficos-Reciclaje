@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"for %f in \\(Angar.blend \\\\\"Cars de todo tipo y colores.blend\\\\\" Meshy_AI_UNA_Fox_Student_0501034145_generate.blend\\) do @echo %~zf %f\")",
+      "Bash(git lfs *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}
